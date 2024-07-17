@@ -1,0 +1,21 @@
+{
+	"id": "b59a3305-55bf-43b9-80ab-f17c42411795",
+	"values": [
+		{
+			"key": "new_globe",
+			"value": "https://e6c34372-fdcc-4562-af35-b1cc161283de.mock.pstmn.io",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "globe_1",
+			"value": "https://reqres.in/api",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-07-14T15:03:28.840Z",
+	"_postman_exported_using": "Postman/11.3.2"
+}
